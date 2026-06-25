@@ -1,0 +1,26 @@
+product_id,product_name,category,price
+P201,Soap,FMCG,50
+P202,Shampoo,FMCG,200
+P203,Toothpaste,FMCG,150
+P204,Biscuit,Food,150
+P205,Coffee,Food,250
+P206,Tea,Food,150
+P207,Juice,Beverage,250
+P208,Milk,Dairy,200
+P209,Butter,Dairy,120
+P210,Cheese,Dairy,200
+P211,Rice,Grocery,500
+P212,Wheat,Grocery,400
+P213,Sugar,Grocery,50
+P214,Salt,Grocery,20
+P215,Oil,Grocery,180
+P216,Pen,Stationery,10
+P217,Notebook,Stationery,40
+P218,Pencil,Stationery,5
+P219,Eraser,Stationery,3
+P220,Marker,Stationery,25
+P221,Chips,Snacks,30
+P222,Cookies,Snacks,60
+P223,Chocolate,Snacks,80
+P224,Noodles,Food,40
+P225,Soft Drink,Beverage,90

@@ -1,0 +1,26 @@
+store_id,store_name,city,region
+S101,Jaipur Central,Jaipur,North
+S102,Delhi Plaza,Delhi,North
+S103,Mumbai Hub,Mumbai,West
+S104,Pune Center,Pune,West
+S105,Bangalore Mart,Bangalore,South
+S106,Chennai Point,Chennai,South
+S107,Hyderabad Store,Hyderabad,South
+S108,Kolkata Market,Kolkata,East
+S109,Ahmedabad Shop,Ahmedabad,West
+S110,Lucknow Retail,Lucknow,North
+S111,Patna Store,Patna,East
+S112,Bhopal Mart,Bhopal,Central
+S113,Indore Center,Indore,Central
+S114,Surat Point,Surat,West
+S115,Nagpur Retail,Nagpur,Central
+S116,Kanpur Shop,Kanpur,North
+S117,Agra Store,Agra,North
+S118,Noida Mart,Noida,North
+S119,Gurgaon Plaza,Gurgaon,North
+S120,Coimbatore Hub,Coimbatore,South
+S121,Kochi Center,Kochi,South
+S122,Vizag Point,Vizag,South
+S123,Ranchi Retail,Ranchi,East
+S124,Guwahati Shop,Guwahati,East
+S125,Bhubaneswar Store,Bhubaneswar,East
